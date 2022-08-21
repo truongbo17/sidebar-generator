@@ -1,5 +1,6 @@
 {
-    "name": "bo/sidebar",
+    "name": "truongbo/sidebar",
+    "author": "Nguyen Quang Truong",
     "description": "Sidebar Admin Package",
     "type": "package",
     "autoload": {
