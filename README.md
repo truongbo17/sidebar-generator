@@ -1,6 +1,8 @@
 # sidebar-generator
 A simple generate sidebar for PHP/Laravel
 
+[<img src="https://github.com/truongbo17/sidebar-generator/blob/main/exam.png?raw=true" />](example)
+
 ### Usage :
 
 * Install
