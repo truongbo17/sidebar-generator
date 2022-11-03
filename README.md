@@ -1,5 +1,5 @@
-# sidebar-generator
-A simple generate sidebar for PHP/Laravel
+# sidebar-generator (No UI/UX)
+A simple generate sidebar for PHP/Laravel (Logic only, not include interface as shown below)
 
 [<img src="https://github.com/truongbo17/sidebar-generator/blob/main/exam.png?raw=true" />](example)
 
